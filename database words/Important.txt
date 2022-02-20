@@ -1,5 +1,5 @@
 Diese App ist für die App "Endless typing Ape" erstellt worden
-und kann eine eigene Wörter-Datenbank erstellen um die finden zu lassen. 
+und kann eine eigene Wörter-Datenbank erstellen um diese finden zu lassen. 
 
 Die App erstellt eine Text Datei im Json Format, diese kann intern bearbeitet werden.
 
