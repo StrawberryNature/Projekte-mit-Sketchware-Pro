@@ -1,1 +1,9 @@
+Die App erstellt eine Notiz und wird beim schliessen der App als Text
+Datei im Json Format, diese kann intern bearbeitet werden oder mit einem 
+anderen text Editor.
 
+Es folgen Informationen zu dieser App:
+
+Diese App ist voll funktionsfähig und bereit für dich zu arbeiten.
+Diese App wurde conventiert, daher sind fehler möglich.
+Nach dem download den Namen zu .apk ändern, oder released version herunterladen!
