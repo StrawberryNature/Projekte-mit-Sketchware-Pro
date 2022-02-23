@@ -8,6 +8,7 @@ Für mich sind sie alle von nutzen und im gebrauch!
 Alle Apps (auch wenn unnütz) sollen als Beispiele und Anregungen
 dienen, was man alles mit Sketchware erstellen kann. 
 
+
 ## Ich bin kein Designer
 Mein Interesse liegt an einer Codierung und deren Funktion hinter
 einem Button, daher sehen meine Apps eher schlicht gestaltet aus.
@@ -22,3 +23,10 @@ konnte, aber einige spezielle sind mir gelungen:
 - erfolgreiches lesen und schreiben in Android 11
 - Keine Probleme auf Xiaomi Geräten
 
+
+## Informationen
+
+- Device: Xiaomi
+- Model: Redmi Note 9
+- MIUI-Version: 12.5
+- Android-Version: 11
