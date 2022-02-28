@@ -22,6 +22,7 @@ konnte, aber einige spezielle sind mir gelungen:
 - Mehrfarbiger Hintergrundfarbe für einzelne Listview Objekte
 - erfolgreiches lesen und schreiben in Android 11
 - Keine Probleme auf Xiaomi Geräten
+- Banner Werbung mit Google Ads API
 
 
 ## Informationen
