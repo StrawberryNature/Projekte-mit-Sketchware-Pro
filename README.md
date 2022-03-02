@@ -23,6 +23,7 @@ konnte, aber einige spezielle sind mir gelungen:
 - erfolgreiches lesen und schreiben in Android 11
 - Keine Probleme auf Xiaomi Geräten
 - Banner Werbung mit Google Ads API
+- 2× zurück zum schliessen
 
 
 ## Informationen
